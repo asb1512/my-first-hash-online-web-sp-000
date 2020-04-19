@@ -1,5 +1,5 @@
 def my_hash
-  hash_browns = {}
+  hash_browns = {"main dish" => "grits", "drink" => "coffee"}
 end
 
 
